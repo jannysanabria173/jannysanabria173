@@ -33,7 +33,7 @@ Para mí, el QA no se trata solo de encontrar fallas, sino de **prevenir problem
 
 | Categoría | Tecnologías y Frameworks |
 | :--- | :--- |
-| **Automatización** | `Selenium WebDriver` • `Java` • `JavaScript` |
+| **Automatización** | `Selenium WebDriver` • `Python`  |
 | **APIs y DB** | `Postman` • `SQL Server` • `MySQL` |
 | **Metodologías QA** | `Análisis de Requerimientos` • `Casos de Prueba (Valores Límite)` • `Particiones de Equivalencia` |
 | **Control de Versiones** | `Git` • `GitHub` |
