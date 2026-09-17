@@ -1,26 +1,28 @@
-<!-- ENCABEZADO CON FOTO Y TEXTO DINÁMICO -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Tu Foto de Perfil (Alineada a la izquierda, borde redondeado) -->
-    <td align="center" width="30%">
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQFAlCZUtKCy_A/profile-displayphoto-crop_800_800/B4EaBdR7wZHwAI-/0/1788271381200?e=1791417600&v=beta&t=mspdTqk-PzSi1PB52pPR8YHHqo--JgZMxO_8cRYetQ4" width="180px" alt="Janny Sanabria" style="border-radius: 50%; border: 3px solid #43B02A;" />
-    </td>
-    <!-- Título y Efecto Dinámico (Alineado a la derecha) -->
-    <td align="left" width="70%" style="padding-left: 20px;">
-      <h1>¡Hola! Soy Janny Sanabria Galeano 👋</h1>
-      <h3>QA Engineer | Automation & Manual Testing Specialist</h3>
-      <!-- EFECTO DINÁMICO: Máquina de escribir automatizada enfocada en QA -->
-      <a href="https://git.io">
-        <img src="https://demolab.com..." alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ENCABEZADO MODERNO Y LIMPIO -->
+<p align="center">
+  <img src="[https://licdn.com](https://media.licdn.com/dms/image/v2/D4E03AQFAlCZUtKCy_A/profile-displayphoto-crop_800_800/B4EaBdR7wZHwAI-/0/1788271381200?e=1791417600&v=beta&t=mspdTqk-PzSi1PB52pPR8YHHqo--JgZMxO_8cRYetQ4)" width="160px" style="border-radius: 50%; border: 3px solid #43B02A; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
+<h1 align="center">¡Hola! Soy Janny Sanabria Galeano 👋</h1>
+<p align="center">
+  <strong>QA Engineer | Automation & Manual Testing Specialist</strong>
+</p>
+
+<!-- EFECTO DINÁMICO MEJORADO: Texto fluido de QA sin enlaces rotos -->
+<p align="center">
+  <img src="https://demolab.com..." alt="QA Automation Flow" />
+</p>
+
+<p align="center">
+  <a href="https://jannysanabria.lovable.app/#top">
+    <img src="https://shields.io" alt="Portafolio" />
+  </a>
+</p>
 
 ---
 
 ### 🔍 Sobre Mí
-Apasionado por asegurar la robustez del software, optimizar procesos de desarrollo y mitigar riesgos antes del despliegue en producción. Tengo experiencia ejecutar el ciclo completo de pruebas (**STLC**), desde el análisis crítico de requerimientos hasta la entrega de suites de regresión completamente automatizadas.
+Apasionado por asegurar la robustez del software, optimizar procesos de desarrollo y mitigar riesgos antes del despliegue en producción. Tengo experiencia ejecutando el ciclo completo de pruebas (**STLC**), desde el análisis crítico de requerimientos hasta la entrega de suites de regresión completamente automatizadas.
 
 ---
 
@@ -86,7 +88,7 @@ En cada uno de los siguientes proyectos apliqué un enfoque integral de QA que i
 
 ### 📫 Conéctate conmigo
 
-* **LinkedIn:** Janny Sanabria www.linkedin.com/in/janny-sanabria
+* **LinkedIn:** [Janny Sanabria](www.linkedin.com/in/janny-sanabria) <!-- Cambia tu-usuario por el tuyo -->
 * **Portafolio Web:** [jannysanabria.lovable.app](https://jannysanabria.lovable.app/#top)
 * **Email:** janny.sanabriagaleano@gmail.com
 
