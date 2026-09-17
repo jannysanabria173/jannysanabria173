@@ -10,7 +10,22 @@
 ---
 
 ### 🔍 Sobre Mí
-> Apasionado por asegurar la robustez del software, optimizar procesos de desarrollo y mitigar riesgos antes del despliegue en producción. Tengo experiencia ejecutando el ciclo completo de pruebas (**STLC**), desde el análisis crítico de requerimientos hasta la entrega de suites de regresión completamente automatizadas.
+> ### 🚀 QA Analyst | Transformando el Software a través de la Experiencia de Usuario
+
+Con más de **6 años de trayectoria** optimizando operaciones y servicio al cliente, he evolucionado mi carrera hacia el **Análisis de Calidad de Software (QA)**. Mi propuesta de valor es única: fusiono una sensibilidad absoluta por las necesidades del usuario final con un enfoque técnico estricto y riguroso. No me limito a reportar *bugs*; analizo y mitigo su impacto directo en el negocio. 
+
+### 🛠️ Stack Técnico & Aptitudes QA
+
+* **Testing Integral:** Ejecución sólida de pruebas manuales en Front-end (DevTools) y Back-end (Postman/APIs), con especial foco en plataformas móviles utilizando Android Studio.
+* **Optimización de Pruebas:** Diseño estratégico de casos utilizando metodologías como clases de equivalencia para garantizar la máxima cobertura en el menor tiempo.
+* **Documentación y Reportes:** Gestión ágil de defectos en JIRA con reportes asertivos y detallados (Qué, Dónde, Cuándo) que facilitan el trabajo del equipo de desarrollo.
+* **Enfoque Analítico:** Identificación proactiva de "zonas grises" en los requerimientos y mejora continua basada en métricas de calidad.
+
+### 🎯 Filosofía de Trabajo
+
+Para mí, el QA no se trata solo de encontrar fallas, sino de **prevenir problemas** antes de que impacten al usuario. Me adapto rápidamente a entornos metodológicos ágiles y aporto una alta atención al detalle en equipos de alto rendimiento. 
+
+📫 **¿Conectamos?** Me encanta intercambiar ideas sobre testing, automatización y optimización de procesos.
 
 ---
 
