@@ -180,7 +180,7 @@ For me, QA is not just about finding flaws, but about **preventing issues** befo
 
 ### 📫 Conéctate conmigo / Connect with me
 
-* 💼 **LinkedIn:** [Janny Sanabria Galeano](www.linkedin.com/in/janny-sanabria)
+* 💼 **LinkedIn:** [Janny Sanabria Galeano](https://www.linkedin.com/in/janny-sanabria)
 * 🌐 **Portafolio:** [jannysanabria.lovable.app](https://jannysanabria.lovable.app/#top)
 * 📧 **Email:** janny.sanabriagaleano@gmail.com
 
