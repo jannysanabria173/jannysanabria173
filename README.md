@@ -6,7 +6,11 @@
 <details>
   <summary>🌐 <b>Leer en Español (Spanish)</b></summary>
   <br />
-  <p><i>## ¡Hola! Soy Janny Sanabria Galeano 👋
+
+### 🔍 Sobre Mí
+> ### 🚀 QA Analyst | Transformando el Software a través de la Experiencia de Usuario
+
+## ¡Hola! Soy Janny Sanabria Galeano 👋
 ### QA Engineer | Automation & Manual Testing Specialist
 
 ```qa-automation
@@ -82,12 +86,7 @@ Para mí, el QA no se trata solo de encontrar fallas, sino de **prevenir problem
 * **Descripción:** Ciclo completo de pruebas para un sistema escolar, garantizando la seguridad en formularios de inscripción y el correcto almacenamiento de datos de estudiantes.
 * **Core:** Automatización de flujos de registro con Selenium WebDriver y verificación de respuestas del servidor.
 
----
-<p align="center">
-  <i>"La calidad no es un acto, es un hábito." — Aristóteles</i>
-</p>
 
-```</i></p>
 </details>
 
 ---
@@ -95,7 +94,11 @@ Para mí, el QA no se trata solo de encontrar fallas, sino de **prevenir problem
 <details>
   <summary>🇬🇧 <b>Read in English (Inglés)</b></summary>
   <br />
-  <p><i># Hi there! I'm Janny Sanabria Galeano 👋
+
+### 🔍 About Me
+> ### 🚀 QA Analyst | Transforming Software through User Experience
+
+# Hi there! I'm Janny Sanabria Galeano 👋
 ### QA Engineer | Automation & Manual Testing Specialist
 
 ```qa-automation
@@ -171,17 +174,14 @@ For me, QA is not just about finding flaws, but about **preventing issues** befo
 * **Description:** Full testing cycle for a school system, ensuring security in registration forms and proper storage of student data.
 * **Core:** Automation of registration flows with Selenium WebDriver and server response verification.
 
----
-</i></p>
 </details>
 
 ---
 
 ### 📫 Conéctate conmigo / Connect with me
 
-* 💼 **LinkedIn:** [Janny Sanabria Galeano] (www.linkedin.com/in/janny-sanabria)
-
-* 🌐 **Portafolio:** [jannysanabria.lovable.app](https://lovable.app)
+* 💼 **LinkedIn:** [Janny Sanabria Galeano](www.linkedin.com/in/janny-sanabria)
+* 🌐 **Portafolio:** [jannysanabria.lovable.app](https://jannysanabria.lovable.app/#top)
 * 📧 **Email:** janny.sanabriagaleano@gmail.com
 
 ---
